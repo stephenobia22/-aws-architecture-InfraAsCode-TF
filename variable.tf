@@ -39,7 +39,7 @@
 # }
 
 variable "aws_region" {
-  default = "us-west-2"
+  default = "us-west-1"
 }
 variable "vpc_cidr" {}
 variable "environment" {}
