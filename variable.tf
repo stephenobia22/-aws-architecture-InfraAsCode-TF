@@ -6,10 +6,10 @@
 #     description = "Map of AZ to a number that should be used for public subnet"
 
 #     default = {
-#         "us-west-2a" = 1
-#         "us-west-2b" = 2
-#         # "us-west-2c" = 3
-#         # "us-west-2d" = 4
+#         "us-west-1a" = 1
+#         "us-west-1b" = 2
+#         # "us-west-1c" = 3
+#         # "us-west-1d" = 4
 #     }
 # }
 
@@ -19,10 +19,10 @@
 #     description = "Map of AZ to a number that should be used for private subnet"
 
 #     default = {
-#         "us-west-2a" = 3
-#         "us-west-2b" = 4
-#         # "us-west-2c" = 3
-#         # "us-west-2d" = 4
+#         "us-west-1a" = 3
+#         "us-west-1b" = 4
+#         # "us-west-1c" = 3
+#         # "us-west-1d" = 4
 #     }
 # }
 
